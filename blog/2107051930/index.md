@@ -13,7 +13,5 @@ hash-tag: [debut, github, pages, jekyll]
 
 
 
->hello world!
->
->플랩풋볼 블로그 데뷔전!
+😃Comming Soon!
 
