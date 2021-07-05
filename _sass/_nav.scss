@@ -63,6 +63,7 @@
         }
 
         position: absolute;
+        top: 5%;
         left: 0;
         right: 0;
         background-color: white;
@@ -109,6 +110,7 @@
       cursor: pointer;
 
       .icon {
+        content: "";
         margin: auto 0;
         font-size: 30px;
         margin-bottom: 10px;
