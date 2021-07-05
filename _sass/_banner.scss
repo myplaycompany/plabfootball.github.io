@@ -1,0 +1,159 @@
+.no-wrap {
+  white-space: nowrap;
+}
+
+.overlay {
+  background-size: cover !important;
+}
+
+.main-banner {
+  @media (max-width: $break-small) {
+    height: 250px !important;
+  }
+}
+
+.about-banner {
+  @media (max-width: $break-small) {
+    height: 200px !important;
+  }
+}
+
+
+// ALL
+.main-banner, .recruit-banner, .about-banner {
+  left: 0;
+  right: 0;
+  height: 250px;
+
+  @media (max-width: $break-medium) {
+    height: 300px;
+  }
+
+  @media (max-width: $break-small) {
+    bottom: 0;
+    height: 150px;
+  }
+
+  .text-wrapper {
+    .main-title {
+      font-size: 30px;
+      font-weight: bold;
+
+      @media (max-width: $break-medium) {
+        font-size: 22px;
+      }
+      @media (max-width: $break-small) {
+        font-size: 23px;
+        margin-top: 5px;
+      }
+    }
+
+    .sub-title {
+      font-size: 24px;
+      font-weight: bold;
+
+      @media (max-width: $break-medium) {
+        font-size: 18px;
+      }
+      @media (max-width: $break-small) {
+        font-size: 16px;
+      }
+    }
+
+    .description {
+      font-size: 19px;
+
+      @media (max-width: $break-medium) {
+        font-size: 15px;
+      }
+      @media (max-width: $break-small) {
+        font-size: 14px;
+      }
+    }
+
+    .highlight-text {
+      color: $primary;
+    }
+  }
+}
+
+
+// MAIN
+.main-banner {
+  display: table;
+
+  .content {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  .title {
+    font-size: 30px;
+  }
+  .sub-title {
+    font-size: 20px;
+  }
+
+  @media (min-width: $break-small) {
+    .title {
+      font-size: 50px;
+    }
+    .sub-title {
+      font-size: 30px;
+    }
+  }
+}
+
+
+// ABOUT
+.about-banner {
+  display: table;
+
+  .content {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  .title {
+    font-size: 30px;
+  }
+  .sub-title {
+    font-size: 20px;
+    color: #90949a;
+  }
+
+  @media (min-width: $break-small) {
+    .title {
+      font-size: 50px;
+    }
+    .sub-title {
+      font-size: 30px;
+    }
+  }
+}
+
+
+// RECRUIT
+.recruit-banner {
+  display: table;
+
+  .content {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  .title {
+    font-size: 30px;
+  }
+  .sub-title {
+    font-size: 20px;
+    color: #90949a;
+  }
+
+  @media (min-width: $break-small) {
+
+    .title {
+      font-size: 50px;
+    }
+    .sub-title {
+      font-size: 30px;
+    }
+  }
+}

@@ -1,0 +1,36 @@
+# 없으면 채워넣지 않습니다
+# name: 모집직군
+# title: 제목
+# position: 포지션
+# overview: 세부기준
+# requirement: 필수요건
+# useful: 있으면좋아요
+# infra: 기술스택
+# url: 지원링크
+
+- name: "모바일 앱 개발자(Flutter)"
+  title: 플러터 앱 개발자를 모십니다!
+  overview:
+    - 플랩풋볼 앱 개발
+    - 플랩풋볼 매니저 앱 개발
+    - 플랩풋볼 대관 앱 개발
+  requirement:
+    - 웹 프론트엔드 개발경력 2년 이상 혹은 그에 준하는 실력을 갖추신 분
+    - RESTful API에 대한 이해가 있으신 분
+    - 팀원에게 자신의 지식을 전할 수 있는 의사소통 능력을 가지신 분
+    - 좋은코드 작성에 욕심이 있으신 분
+  useful:
+    - Flutter 개발 경험이 있으신 분
+    - Angular, React, Vue 개발 경험이 있으신 분
+    - CI/CD 구성 경험이 있으신 분
+    - 앱개발&배포 경험이 있으신 분
+    - 서비스 기획부터 출시까지 주도적으로 개발을 진행해 본 경험이 있으신 분
+  infra:
+    - Python / Django
+    - RESTful API
+    - MySQL
+    - VueJS
+    - Flutter
+    - AWS
+    - Git / GitHub
+  url: null

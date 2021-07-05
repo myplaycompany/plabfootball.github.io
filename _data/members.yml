@@ -1,0 +1,22 @@
+﻿# [[ 작성방법 ]]
+# 순서는 편하신대로 작성하시면 자동으로 USER-NAME순 정렬됩니다.
+
+## id: USER-NAME
+## name: 닉네임
+## emoji: 이모지
+## comment: 한줄설명
+
+- id: 604
+  name: CUS
+  emoji: 🐱
+  comment: 탐욕의 디자이너
+
+- id: 3104
+  name: STEP
+  emoji: 🔥
+  comment: 겁 없는 개발자
+
+- id: 9680
+  name: MACGOOK
+  emoji: 🗿
+  comment: 그때부터였어요. 제가 개발자가 된 게

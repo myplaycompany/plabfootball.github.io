@@ -1,0 +1,23 @@
+# index: 순서
+# label: 제목
+# description: 설명
+# detail: 부가설명
+
+- index : 01
+  label: 서류전형
+  description : 서류전형입니다.
+  detail:
+    - 디테일입니다.
+    - 디테일입니다.
+
+- index : 02
+  label: 1차 면접
+  description : 1차면접입니다.
+
+- index : 03
+  label: 2차 면접
+  description : 2차면접입니다.
+
+- index : 04
+  label: 최종합격
+  description : 최종합격입니다.
