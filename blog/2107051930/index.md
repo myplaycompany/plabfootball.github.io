@@ -1,6 +1,6 @@
 ---
 layout: post
-type: tech
+type: blog
 date: 2021-07-05 19:30
 category: Blog
 title: 플랩풋볼 기술 블로그 데뷔전!
@@ -13,5 +13,5 @@ hash-tag: [debut, github, pages, jekyll]
 
 
 
-😃Comming Soon!
+# 😃 Comming Soon!
 

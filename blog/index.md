@@ -1,6 +1,6 @@
 ---
 layout: main
-title: 테크노트
+title: 테크 블로그
 main: true
 ---
 
@@ -9,7 +9,7 @@ main: true
 {% include hashtag.html %}
 
 <ul class="catalogue">
-{% assign sorted = site.pages | sort: 'date' | reverse | where: 'type', 'tech' %}
+{% assign sorted = site.pages | sort: 'date' | reverse | where: 'type', 'blog' %}
 {% for page in sorted %}
 {% include post-list.html %}
 {% endfor %}

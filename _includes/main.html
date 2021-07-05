@@ -3,7 +3,7 @@
 {% include hashtag.html %}
 
 <ul class="catalogue">
-{% assign sorted = site.pages | sort: 'date' | reverse | where: 'type', 'tech' %}
+{% assign sorted = site.pages | sort: 'date' | reverse | where: 'type', 'blog' %}
 {% for page in sorted %}
 {% include post-list.html %}
 {% endfor %}
