@@ -1,6 +1,6 @@
 ---
 layout: main
-title: 테크 블로그
+title: 블로그
 main: true
 ---
 
