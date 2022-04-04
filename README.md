@@ -14,7 +14,7 @@
 
 ### Jekyll 설치
 
-터미널에서 'sudo gem install jekyll bunder' 명령어를 입력하여 'jekyll' 과 'bundler'를 설치합니다.
+터미널에서 'sudo gem install jekyll bundler' 명령어를 입력하여 'jekyll' 과 'bundler'를 설치합니다.
 
 - 윈도우 [windows] (https://jekyllrb.com/docs/installation/windows/)
 - 맥OS [macOS] (https://jekyllrb.com/docs/installation/macos/)
